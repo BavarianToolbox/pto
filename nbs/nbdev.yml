@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "pto"
+  site-url: "https://BavarianToolbox.github.io/pto"
+  description: "Prompted class-agnostic single object localization"
+  repo-branch: main
+  repo-url: "https://github.com/BavarianToolbox/pto"
